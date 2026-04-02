@@ -1,0 +1,5 @@
+kanitlar/
+__pycache__/
+.env
+*.jpg
+*.csv
